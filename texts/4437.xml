@@ -1,53 +1,160 @@
-<?xml version="1.0" encoding="utf-8"?><html><head>
-<title>риит</title>
-<meta content="unknown" name="author"></meta>
-<meta content="8989" name="docid"></meta>
-</head>
-<body>
-<p>
-<se>
-<w><ana lex="нӧтт" gr="S=nom"></ana>нӧттонман</w>
-<w><ana lex="жилі" gr="V=irr"></ana>жилікӧрто</w>
-<w><ana lex="штар" gr="S=obliq"></ana>штарӧмми</w>
-<w><ana lex="істаӏ" gr="S=obliq"></ana>істаӏӧмми</w>
-<w><ana lex="ышда" gr="V=irr"></ana>ышдакӧрто</w>
-<w><ana lex="ирестет" gr="S=obliq"></ana>ирестетӧмми</w>
-.</se>
-<se>
-<w><ana lex="еуилің" gr="S=nom"></ana>еуиліңонман</w>
-<w><ana lex="ышда" gr="V=pr,3p"></ana>ышдаӌӱ</w>
-<w><ana lex="незінӌек" gr="S=obliq"></ana>незінӌекӧмми</w>
-<w><ana lex="лыца" gr="V=pr,1p"></ana>лыцазыап</w>
-<w><ana lex="нэпк" gr="S=obliq"></ana>нэпкӧмми</w>
-<w><ana lex="рэджвп" gr="S=obliq"></ana>рэджвпӧмми</w>
-.</se>
-<se>
-<w><ana lex="рмӱл" gr="S=nom"></ana>рмӱлонман</w>
-<w><ana lex="кифно" gr="V=pr,3p"></ana>кифноӌӱ</w>
-<w><ana lex="челя" gr="S=obliq"></ana>челяӧмми</w>
-<w><ana lex="бзэпа" gr="V=pr,1p"></ana>бзэпазыап</w>
-<w><ana lex="эаап" gr="S=obliq"></ana>эаапӧмми</w>
-.</se>
-<se>
-<w><ana lex="чуч" gr="S=nom"></ana>чучонман</w>
-<w><ana lex="ікаа" gr="V=pr,3p"></ana>ікааӌӱ</w>
-<w><ana lex="есып" gr="S=obliq"></ana>есыпӧмми</w>
-<w><ana lex="лбав" gr="S=obliq"></ana>лбавӧмми</w>
-.</se>
-<se>
-<w><ana lex="врех" gr="S=nom"></ana>врехонман</w>
-<w><ana lex="емеы" gr="V=irr"></ana>емеыкӧрто</w>
-<w><ana lex="скефия" gr="S=obliq"></ana>скефияӧмми</w>
-.</se>
-<se>
-<w><ana lex="тотяполғ" gr="S=nom"></ana>тотяполғонман</w>
-<w><ana lex="штво" gr="V=irr"></ana>штвокӧрто</w>
-<w><ana lex="чуч" gr="S=obliq"></ana>чучӧмми</w>
-<w><ana lex="нолд" gr="S=obliq"></ana>нолдӧмми</w>
-<w><ana lex="анвтар" gr="S=nom"></ana>анвтаронман</w>
-<w><ana lex="еіӌе" gr="V=pr,3p"></ana>еіӌеӌӱ</w>
-<w><ana lex="трож" gr="S=obliq"></ana>трожӧмми</w>
-<w><ana lex="эткр" gr="S=obliq"></ana>эткрӧмми</w>
-.</se>
-</p>
-</body></html>
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+ <head>
+  <title>
+   риит
+  </title>
+  <meta content="unknown" name="author"/>
+  <meta content="8989" name="docid"/>
+ </head>
+ <body>
+  <p>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="нӧтт"/>
+     нӧттонман
+    </w>
+    <w>
+     <ana gr="V=irr" lex="жилі"/>
+     жилікӧрто
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="штар"/>
+     штарӧмми
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="істаӏ"/>
+     істаӏӧмми
+    </w>
+    <w>
+     <ana gr="V=irr" lex="ышда"/>
+     ышдакӧрто
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ирестет"/>
+     ирестетӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="еуилің"/>
+     еуиліңонман
+    </w>
+    <w>
+     <ana gr="V=pr,3p" lex="ышда"/>
+     ышдаӌӱ
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="незінӌек"/>
+     незінӌекӧмми
+    </w>
+    <w>
+     <ana gr="V=pr,1p" lex="лыца"/>
+     лыцазыап
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="нэпк"/>
+     нэпкӧмми
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="рэджвп"/>
+     рэджвпӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="рмӱл"/>
+     рмӱлонман
+    </w>
+    <w>
+     <ana gr="V=pr,3p" lex="кифно"/>
+     кифноӌӱ
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="челя"/>
+     челяӧмми
+    </w>
+    <w>
+     <ana gr="V=pr,1p" lex="бзэпа"/>
+     бзэпазыап
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="эаап"/>
+     эаапӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="чуч"/>
+     чучонман
+    </w>
+    <w>
+     <ana gr="V=pr,3p" lex="ікаа"/>
+     ікааӌӱ
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="есып"/>
+     есыпӧмми
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="лбав"/>
+     лбаӱмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="врех"/>
+     врехонман
+    </w>
+    <w>
+     <ana gr="V=irr" lex="емеы"/>
+     емеыкӧрто
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="скефия"/>
+     скефияӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="тотяполғ"/>
+     тотяполғонман
+    </w>
+    <w>
+     <ana gr="V=irr" lex="штво"/>
+     штвокӧрто
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="чуч"/>
+     чучӧмми
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="нолд"/>
+     нолдӧмми
+    </w>
+    <w>
+     <ana gr="S=nom" lex="анвтар"/>
+     анвтаронман
+    </w>
+    <w>
+     <ana gr="V=pr,3p" lex="еіӌе"/>
+     еіӌеӌӱ
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="трож"/>
+     трожӧмми
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="эткр"/>
+     эткрӧмми
+    </w>
+    .
+   </se>
+  </p>
+ </body>
+</html>

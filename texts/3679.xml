@@ -1,30 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><html><head>
-<title>краб</title>
-<meta content="unknown" name="author"></meta>
-<meta content="10634" name="docid"></meta>
-</head>
-<body>
-<p>
-<se>
-<w><ana lex="гдай" gr="S=nom"></ana>гдайонман</w>
-<w><ana lex="ышда" gr="V=impf"></ana>ышдаергу</w>
-<w><ana lex="кэрм" gr="S=obliq"></ana>кэрмӧмми</w>
-.</se>
-<se>
-<w><ana lex="чуч" gr="S=nom"></ana>чучонман</w>
-<w><ana lex="хото" gr="V=perf"></ana>хотоенар</w>
-<w><ana lex="ылер" gr="S=obliq"></ana>ылерӧмми</w>
-.</se>
-<se>
-<w><ana lex="сыпч" gr="S=nom"></ana>сыпчонман</w>
-<w><ana lex="ышда" gr="V=perf"></ana>ышдаенар</w>
-<w><ana lex="керм" gr="S=obliq"></ana>кермӧмми</w>
-.</se>
-<se>
-<w><ana lex="птырг" gr="S=nom"></ana>птыргонман</w>
-<w><ana lex="мтуа" gr="V=perf"></ana>мтуаенар</w>
-<w><ana lex="дреп" gr="S=obliq"></ana>дрепӧмми</w>
-<w><ana lex="ишинс" gr="S=obliq"></ana>ишинсӧмми</w>
-.</se>
-</p>
-</body></html>
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+ <head>
+  <title>
+   краб
+  </title>
+  <meta content="unknown" name="author"/>
+  <meta content="10634" name="docid"/>
+ </head>
+ <body>
+  <p>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="гдай"/>
+     гдайонман
+    </w>
+    <w>
+     <ana gr="V=impf" lex="ышда"/>
+     ышдаергу
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="кэрм"/>
+     кэрмӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="чуч"/>
+     чучонман
+    </w>
+    <w>
+     <ana gr="V=perf" lex="хото"/>
+     хотоенар
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ылер"/>
+     ылерӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="сыпч"/>
+     сыпчонман
+    </w>
+    <w>
+     <ana gr="V=perf" lex="ышда"/>
+     ышдаенар
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="керм"/>
+     кермӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="птырг"/>
+     птыргонман
+    </w>
+    <w>
+     <ana gr="V=perf" lex="мтуа"/>
+     мтуаенар
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="дреп"/>
+     дрепӧмми
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ишинс"/>
+     ишинсӧмми
+    </w>
+    .
+   </se>
+  </p>
+ </body>
+</html>

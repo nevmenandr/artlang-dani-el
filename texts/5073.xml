@@ -1,53 +1,145 @@
-<?xml version="1.0" encoding="utf-8"?><html><head>
-<title>ртағ</title>
-<meta content="unknown" name="author"></meta>
-<meta content="7769" name="docid"></meta>
-</head>
-<body>
-<p>
-<se>
-<w><ana lex="івоты" gr="V=pr,1p"></ana>івотызыап</w>
-<w><ana lex="шукп" gr="S=obliq"></ana>шукпӧмми</w>
-<w><ana lex="ӱске" gr="V=pr,2p"></ana>ӱскезіху</w>
-<w><ana lex="скилердак" gr="S=obliq"></ana>скилердакӧмми</w>
-.</se>
-<se>
-<w><ana lex="апосо" gr="V=pr,1p"></ana>апосозыап</w>
-<w><ana lex="мтунаң" gr="S=obliq"></ana>мтунаңӧмми</w>
-.</se>
-<se>
-<w><ana lex="каену" gr="V=pr,2p"></ana>каенузіху</w>
-<w><ana lex="аяуп" gr="S=obliq"></ana>аяупӧмми</w>
-<w><ana lex="тоды" gr="V=pr,2p"></ana>тодызіху</w>
-<w><ana lex="зерд" gr="S=obliq"></ana>зердӧмми</w>
-.</se>
-<se>
-<w><ana lex="ытни" gr="V=pr,2p"></ana>ытнизіху</w>
-<w><ana lex="ожег" gr="S=obliq"></ana>ожегӧмми</w>
-.</se>
-<se>
-<w><ana lex="аинзаже" gr="V=pr,2p"></ana>аинзажезіху</w>
-<w><ana lex="нхич" gr="S=obliq"></ana>нхичӧмми</w>
-.</se>
-<se>
-<w><ana lex="етго" gr="V=pr,2p"></ana>етгозіху</w>
-<w><ana lex="мэпиліг" gr="S=obliq"></ana>мэпилігӧмми</w>
-.</se>
-<se>
-<w><ana lex="ужеде" gr="V=pr,2p"></ana>ужедезіху</w>
-<w><ana lex="пусыхус" gr="S=obliq"></ana>пусыхусӧмми</w>
-.</se>
-<se>
-<w><ana lex="ияхы" gr="V=pr,2p"></ana>ияхызіху</w>
-<w><ana lex="ырхыр" gr="S=obliq"></ana>ырхырӧмми</w>
-<w><ana lex="гзем" gr="S=obliq"></ana>гземӧмми</w>
-.</se>
-<se>
-<w><ana lex="чака" gr="V=pr,2p"></ana>чаказіху</w>
-<w><ana lex="акод" gr="S=obliq"></ana>акодӧмми</w>
-<w><ana lex="пупи" gr="V=pr,2p"></ana>пупизіху</w>
-<w><ana lex="шгаэ" gr="S=obliq"></ana>шгаэӧмми</w>
-<w><ana lex="тыденал" gr="S=obliq"></ana>тыденалӧмми</w>
-.</se>
-</p>
-</body></html>
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+ <head>
+  <title>
+   ртағ
+  </title>
+  <meta content="unknown" name="author"/>
+  <meta content="7769" name="docid"/>
+ </head>
+ <body>
+  <p>
+   <se>
+    <w>
+     <ana gr="V=pr,1p" lex="івоты"/>
+     івотызыап
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="шукп"/>
+     шукпӧмми
+    </w>
+    <w>
+     <ana gr="V=pr,2p" lex="ӱске"/>
+     ӱскезіху
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="скилердак"/>
+     скилердакӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="V=pr,1p" lex="апосо"/>
+     апосозыап
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="мтунаң"/>
+     мтунаңӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="V=pr,2p" lex="каену"/>
+     каенузіху
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="аяуп"/>
+     аяупӧмми
+    </w>
+    <w>
+     <ana gr="V=pr,2p" lex="тоды"/>
+     тодызіху
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="зерд"/>
+     зердӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="V=pr,2p" lex="ытни"/>
+     ытнизіху
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ожег"/>
+     ожегӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="V=pr,2p" lex="аинзаже"/>
+     аинзажезіху
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="нхич"/>
+     нхичӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="V=pr,2p" lex="етго"/>
+     етгозіху
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="мэпиліг"/>
+     мэпилігӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="V=pr,2p" lex="ужеде"/>
+     ужедезіху
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="пусыхус"/>
+     пусыхусӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="V=pr,2p" lex="ияхы"/>
+     ияхызіху
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ырхыр"/>
+     ырхырӧмми
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="гзем"/>
+     гземӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="V=pr,2p" lex="чака"/>
+     чаказіху
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="акод"/>
+     акодӧмми
+    </w>
+    <w>
+     <ana gr="V=pr,2p" lex="пупи"/>
+     пупизіху
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="шгаэ"/>
+     шгаэӧмми
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="тыденал"/>
+     тыденалӧмми
+    </w>
+    .
+   </se>
+  </p>
+ </body>
+</html>

@@ -1,28 +1,70 @@
-<?xml version="1.0" encoding="utf-8"?><html><head>
-<title>ядэг</title>
-<meta content="unknown" name="author"></meta>
-<meta content="12638" name="docid"></meta>
-</head>
-<body>
-<p>
-<se>
-<w><ana lex="ряда" gr="V=pr,1p"></ana>рядазыап</w>
-<w><ana lex="йлӏэ" gr="S=obliq"></ana>йлӏэӧмми</w>
-.</se>
-<se>
-<w><ana lex="онци" gr="V=pr,1p"></ana>онцизыап</w>
-<w><ana lex="ныдыг" gr="S=obliq"></ana>ныдыгӧмми</w>
-.</se>
-<se>
-<w><ana lex="инуо" gr="V=pr,2p"></ana>инуозіху</w>
-<w><ana lex="ылер" gr="S=obliq"></ana>ылерӧмми</w>
-<w><ana lex="мгеа" gr="V=pr,1p"></ana>мгеазыап</w>
-<w><ana lex="ккал" gr="S=obliq"></ana>ккалӧмми</w>
-.</se>
-<se>
-<w><ana lex="ӌекӧ" gr="V=pr,2p"></ana>ӌекӧзіху</w>
-<w><ana lex="осниц" gr="S=obliq"></ana>осницӧмми</w>
-<w><ana lex="ылер" gr="S=obliq"></ana>ылерӧмми</w>
-.</se>
-</p>
-</body></html>
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+ <head>
+  <title>
+   ядэг
+  </title>
+  <meta content="unknown" name="author"/>
+  <meta content="12638" name="docid"/>
+ </head>
+ <body>
+  <p>
+   <se>
+    <w>
+     <ana gr="V=pr,1p" lex="ряда"/>
+     рядазыап
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="йлӏэ"/>
+     йлӏэӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="V=pr,1p" lex="онци"/>
+     онцизыап
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ныдыг"/>
+     ныдыгӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="V=pr,2p" lex="инуо"/>
+     инуозіху
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ылер"/>
+     ылерӧмми
+    </w>
+    <w>
+     <ana gr="V=pr,1p" lex="мгеа"/>
+     мгеазыап
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ккал"/>
+     ккалӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="V=pr,2p" lex="ӌекӧ"/>
+     ӌекӧзіху
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="осниц"/>
+     осницӧмми
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ылер"/>
+     ылерӧмми
+    </w>
+    .
+   </se>
+  </p>
+ </body>
+</html>

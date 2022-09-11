@@ -1,31 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?><html><head>
-<title>стид</title>
-<meta content="unknown" name="author"></meta>
-<meta content="6944" name="docid"></meta>
-</head>
-<body>
-<p>
-<se>
-<w><ana lex="есып" gr="S=nom"></ana>есыпонман</w>
-<w><ana lex="леке" gr="V=impf"></ana>лекеергу</w>
-<w><ana lex="йгопӏ" gr="S=obliq"></ana>йгопӏӧмми</w>
-<w><ana lex="емкл" gr="S=obliq"></ana>емклӧмми</w>
-.</se>
-<se>
-<w><ana lex="ӱзең" gr="S=nom"></ana>ӱзеңонман</w>
-<w><ana lex="дера" gr="V=impf"></ana>дераергу</w>
-<w><ana lex="аняч" gr="S=obliq"></ana>анячӧмми</w>
-.</se>
-<se>
-<w><ana lex="охтегенс" gr="S=nom"></ana>охтегенсонман</w>
-<w><ana lex="ауиді" gr="V=perf"></ana>ауидіенар</w>
-<w><ana lex="субт" gr="S=obliq"></ana>субтӧмми</w>
-.</se>
-<se>
-<w><ana lex="сиял" gr="S=nom"></ana>сиялонман</w>
-<w><ana lex="сӧпо" gr="V=impf"></ana>сӧпоергу</w>
-<w><ana lex="нэшем" gr="S=obliq"></ana>нэшемӧмми</w>
-<w><ana lex="чуч" gr="S=obliq"></ana>чучӧмми</w>
-.</se>
-</p>
-</body></html>
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+ <head>
+  <title>
+   стид
+  </title>
+  <meta content="unknown" name="author"/>
+  <meta content="6944" name="docid"/>
+ </head>
+ <body>
+  <p>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="есып"/>
+     есыпонман
+    </w>
+    <w>
+     <ana gr="V=impf" lex="леке"/>
+     лекеергу
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="йгопӏ"/>
+     йгопӏӧмми
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="емкл"/>
+     емклӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="ӱзең"/>
+     ӱзеңонман
+    </w>
+    <w>
+     <ana gr="V=impf" lex="дера"/>
+     дераергу
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="аняч"/>
+     анячӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="охтегенс"/>
+     охтегенсонман
+    </w>
+    <w>
+     <ana gr="V=perf" lex="ауиді"/>
+     ауидіенар
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="субт"/>
+     субтӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="сиял"/>
+     сиялонман
+    </w>
+    <w>
+     <ana gr="V=impf" lex="сӧпо"/>
+     сӧпоергу
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="нэшем"/>
+     нэшемӧмми
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="чуч"/>
+     чучӧмми
+    </w>
+    .
+   </se>
+  </p>
+ </body>
+</html>

@@ -1,30 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><html><head>
-<title>пірб</title>
-<meta content="unknown" name="author"></meta>
-<meta content="5732" name="docid"></meta>
-</head>
-<body>
-<p>
-<se>
-<w><ana lex="яйск" gr="S=nom"></ana>яйсконман</w>
-<w><ana lex="тігже" gr="V=pr,3p"></ana>тігжеӌӱ</w>
-<w><ana lex="ибірх" gr="S=obliq"></ana>ибірхӧмми</w>
-.</se>
-<se>
-<w><ana lex="есов" gr="S=nom"></ana>есовонман</w>
-<w><ana lex="аионо" gr="V=pr,3p"></ana>аионоӌӱ</w>
-<w><ana lex="ылер" gr="S=obliq"></ana>ылерӧмми</w>
-<w><ana lex="хушт" gr="S=obliq"></ana>хуштӧмми</w>
-.</se>
-<se>
-<w><ana lex="ӧрыц" gr="S=nom"></ana>ӧрыцонман</w>
-<w><ana lex="ӱктекі" gr="V=fut"></ana>ӱктекімудж</w>
-<w><ana lex="уплак" gr="S=obliq"></ana>уплакӧмми</w>
-.</se>
-<se>
-<w><ana lex="лзаг" gr="S=nom"></ana>лзагонман</w>
-<w><ana lex="омоо" gr="V=fut"></ana>омоомудж</w>
-<w><ana lex="чыжынут" gr="S=obliq"></ana>чыжынутӧмми</w>
-.</se>
-</p>
-</body></html>
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+ <head>
+  <title>
+   пірб
+  </title>
+  <meta content="unknown" name="author"/>
+  <meta content="5732" name="docid"/>
+ </head>
+ <body>
+  <p>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="яйск"/>
+     яйсконман
+    </w>
+    <w>
+     <ana gr="V=pr,3p" lex="тігже"/>
+     тігжеӌӱ
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ибірх"/>
+     ибірхӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="есов"/>
+     есовонман
+    </w>
+    <w>
+     <ana gr="V=pr,3p" lex="аионо"/>
+     аионоӌӱ
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ылер"/>
+     ылерӧмми
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="хушт"/>
+     хуштӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="ӧрыц"/>
+     ӧрыцонман
+    </w>
+    <w>
+     <ana gr="V=fut" lex="ӱктекі"/>
+     ӱктекімудж
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="уплак"/>
+     уплакӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="лзаг"/>
+     лзагонман
+    </w>
+    <w>
+     <ana gr="V=fut" lex="омоо"/>
+     омоомудж
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="чыжынут"/>
+     чыжынутӧмми
+    </w>
+    .
+   </se>
+  </p>
+ </body>
+</html>

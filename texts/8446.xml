@@ -1,29 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><html><head>
-<title>шолз</title>
-<meta content="unknown" name="author"></meta>
-<meta content="7770" name="docid"></meta>
-</head>
-<body>
-<p>
-<se>
-<w><ana lex="чуч" gr="S=nom"></ana>чучонман</w>
-<w><ana lex="утшу" gr="V=impf"></ana>утшуергу</w>
-<w><ana lex="чуч" gr="S=obliq"></ana>чучӧмми</w>
-.</se>
-<se>
-<w><ana lex="чуч" gr="S=nom"></ana>чучонман</w>
-<w><ana lex="аӧла" gr="V=impf"></ana>аӧлаергу</w>
-<w><ana lex="ицитанд" gr="S=obliq"></ana>ицитандӧмми</w>
-.</se>
-<se>
-<w><ana lex="майдихай" gr="S=nom"></ana>майдихайонман</w>
-<w><ana lex="бісча" gr="V=impf"></ana>бісчаергу</w>
-<w><ana lex="синч" gr="S=obliq"></ana>синчӧмми</w>
-.</se>
-<se>
-<w><ana lex="снай" gr="S=nom"></ana>снайонман</w>
-<w><ana lex="учаа" gr="V=perf"></ana>учааенар</w>
-<w><ana lex="есып" gr="S=obliq"></ana>есыпӧмми</w>
-.</se>
-</p>
-</body></html>
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+ <head>
+  <title>
+   шолз
+  </title>
+  <meta content="unknown" name="author"/>
+  <meta content="7770" name="docid"/>
+ </head>
+ <body>
+  <p>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="чуч"/>
+     чучонман
+    </w>
+    <w>
+     <ana gr="V=impf" lex="утшу"/>
+     утшуергу
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="чуч"/>
+     чучӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="чуч"/>
+     чучонман
+    </w>
+    <w>
+     <ana gr="V=impf" lex="аӧла"/>
+     аӧлаергу
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ицитанд"/>
+     ицитандӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="майдихай"/>
+     майдихайонман
+    </w>
+    <w>
+     <ana gr="V=impf" lex="бісча"/>
+     бісчаергу
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="синч"/>
+     синчӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="снай"/>
+     снайонман
+    </w>
+    <w>
+     <ana gr="V=perf" lex="учаа"/>
+     учааенар
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="есып"/>
+     есыпӧмми
+    </w>
+    .
+   </se>
+  </p>
+ </body>
+</html>

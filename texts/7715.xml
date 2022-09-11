@@ -1,30 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><html><head>
-<title>реер</title>
-<meta content="unknown" name="author"></meta>
-<meta content="11624" name="docid"></meta>
-</head>
-<body>
-<p>
-<se>
-<w><ana lex="чуч" gr="S=nom"></ana>чучонман</w>
-<w><ana lex="ыкэи" gr="V=pr,3p"></ana>ыкэиӌӱ</w>
-<w><ana lex="ыпик" gr="S=obliq"></ana>ыпикӧмми</w>
-.</se>
-<se>
-<w><ana lex="эмэк" gr="S=nom"></ana>эмэконман</w>
-<w><ana lex="йойзы" gr="V=fut"></ana>йойзымудж</w>
-<w><ana lex="ылер" gr="S=obliq"></ana>ылерӧмми</w>
-.</se>
-<se>
-<w><ana lex="оепщ" gr="S=nom"></ana>оепщонман</w>
-<w><ana lex="асаба" gr="V=pr,3p"></ana>асабаӌӱ</w>
-<w><ana lex="дайойк" gr="S=obliq"></ana>дайойкӧмми</w>
-<w><ana lex="уток" gr="S=obliq"></ana>утокӧмми</w>
-.</se>
-<se>
-<w><ana lex="ылер" gr="S=nom"></ana>ылеронман</w>
-<w><ana lex="мукӧ" gr="V=pr,3p"></ana>мукӧӌӱ</w>
-<w><ana lex="ипат" gr="S=obliq"></ana>ипатӧмми</w>
-.</se>
-</p>
-</body></html>
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+ <head>
+  <title>
+   реер
+  </title>
+  <meta content="unknown" name="author"/>
+  <meta content="11624" name="docid"/>
+ </head>
+ <body>
+  <p>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="чуч"/>
+     чучонман
+    </w>
+    <w>
+     <ana gr="V=pr,3p" lex="ыкэи"/>
+     ыкэиӌӱ
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ыпик"/>
+     ыпикӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="эмэк"/>
+     эмэконман
+    </w>
+    <w>
+     <ana gr="V=fut" lex="йойзы"/>
+     йойзымудж
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ылер"/>
+     ылерӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="оепщ"/>
+     оепщонман
+    </w>
+    <w>
+     <ana gr="V=pr,3p" lex="асаба"/>
+     асабаӌӱ
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="дайойк"/>
+     дайойкӧмми
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="уток"/>
+     утокӧмми
+    </w>
+    .
+   </se>
+   <se>
+    <w>
+     <ana gr="S=nom" lex="ылер"/>
+     ылеронман
+    </w>
+    <w>
+     <ana gr="V=pr,3p" lex="мукӧ"/>
+     мукӧӌӱ
+    </w>
+    <w>
+     <ana gr="S=obliq" lex="ипат"/>
+     ипатӧмми
+    </w>
+    .
+   </se>
+  </p>
+ </body>
+</html>
