@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: Неизвестный язык ко дню рождения Михаила Даниэля
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Boris
+    family-names: Orekhov
+    name-particle: Boris Orekhov
+    email: nevmenandr@gmail.com
+    affiliation: HSE University
+    orcid: 'https://orcid.org/0000-0002-9099-0436'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7068700
+repository-code: 'https://github.com/nevmenandr/artlang-dani-el'
+abstract: >-
+  К 50-летию Михаила Александровича Даниэля размещаем репозиторий 
+  с описанием и корпусом текстов неизвестного науке языка.
+keywords:
+  - corpus
+  - linguistics
+  - topic modeling
+  - morphology
+license: GPL-1.0
+commit: 79a556c6a1fe0ff64f5534bf33f0381e01d32501
+version: 1.0.0
+date-released: '2022-09-12'
